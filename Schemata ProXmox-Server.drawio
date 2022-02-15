@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T19:22:05.778Z" agent="5.0 (Macintosh)" etag="eCSrpJ5gCg_QaAawsafH" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T19:23:12.937Z" agent="5.0 (Macintosh)" etag="TKpImfFcskaz17qNDRg7" version="16.5.6" type="github">
   <diagram id="9araOp5fwRmDalz9h45h" name="Seite-1">
     <mxGraphModel dx="2595" dy="3216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-810" y="-1705" />
-              <mxPoint x="-810" y="-1510" />
+              <mxPoint x="-810" y="-1505" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,9 +78,6 @@
         <mxCell id="2KLHpJiBupVAPXzKw6d--59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=oval;startFill=1;" parent="1" source="2KLHpJiBupVAPXzKw6d--30" target="2KLHpJiBupVAPXzKw6d--29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-860" y="-1570" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-680" y="-1510" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2KLHpJiBupVAPXzKw6d--30" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;SMB-/NFS-&lt;br style=&quot;font-size: 18px;&quot;&gt;Back-Up&lt;/span&gt;" style="shape=datastore;whiteSpace=wrap;html=1;rounded=0;shadow=1;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fillStyle=hachure;fontFamily=Comic Sans MS;fontSize=18;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontStyle=0" parent="1" vertex="1">
